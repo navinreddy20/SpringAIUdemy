@@ -61,6 +61,13 @@ public class OpenAIController {
                 looking  for movies around this year {year}. 
                 The  language im looking for is {lang}.
                 Suggest one specific movie and tell me the cast and length of the movie.
+                
+                response format should be:
+                1. Movie Name
+                2. basic plot
+                3. cast
+                4. length
+                5. IMDB rating
                 """;
         PromptTemplate promptTemplate = new PromptTemplate(temp);
 

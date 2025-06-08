@@ -1,0 +1,149 @@
+Title: "Bluetooth Wireless Earbuds"
+Description: Noise-canceling earbuds with up to 30 hours battery life and fast charging support. Sweat and water-resistant.
+Price: $49.99
+Category: Electronics
+Features: Touch controls, Charging case, Bluetooth 5.3, Built-in microphone
+
+Title: "Ceramic Non-Stick Frying Pan (10-Inch)"
+Description: Durable non-stick coating with even heat distribution. PFOA-free and oven safe up to 450°F.
+Price: $27.95
+Category: Home & Kitchen
+Features: Easy to clean, Stay-cool handle, Scratch-resistant, Lightweight
+
+Title: "Portable Laptop Stand"
+Description: Adjustable aluminum stand suitable for all laptop sizes. Promotes better posture.
+Price: $23.49
+Category: Office Supplies
+Features: Foldable design, Heat dissipation, Non-slip base, Lightweight
+
+Title: "Smart LED Light Bulb (4-Pack)"
+Description: Wi-Fi-enabled bulbs compatible with Alexa and Google Assistant. Multi-color and dimmable.
+Price: $34.99
+Category: Smart Home
+Features: Voice control, App scheduling, 16M colors, Energy-efficient
+
+Title: "Men’s Running Shoes"
+Description: Breathable mesh material with cushioned sole for high-impact activities.
+Price: $39.95
+Category: Footwear
+Features: Lightweight, Non-slip grip, Arch support, Multiple colors
+
+Title: "Electric Beard Trimmer"
+Description: Cordless trimmer with adjustable length settings and USB charging.
+Price: $25.00
+Category: Personal Care
+Features: Washable blades, Fast charge, Travel lock, LED display
+
+Title: "Yoga Mat (6mm, Non-Slip)"
+Description: High-density, eco-friendly mat for yoga, Pilates, or floor exercises.
+Price: $18.99
+Category: Fitness
+Features: Anti-tear, Lightweight, Easy to roll, Sweat-resistant
+
+Title: "Gaming Mouse with RGB"
+Description: Ergonomic gaming mouse with customizable DPI and vibrant lighting.
+Price: $29.99
+Category: Electronics
+Features: Programmable buttons, RGB effects, USB wired, 6 DPI modes
+
+Title: "Memory Foam Pillow"
+Description: Contours to neck and head for better sleep and spinal alignment.
+Price: $32.50
+Category: Home & Living
+Features: Hypoallergenic, Cooling gel, Washable cover, Orthopedic design
+
+Title: "Mini Air Purifier"
+Description: Compact purifier with HEPA filter for desks, bedrooms, or travel use.
+Price: $42.00
+Category: Home Appliances
+Features: Quiet operation, USB-powered, Removes 99.7% allergens, LED indicator
+
+Title: "Digital Kitchen Scale"
+Description: Precise measurement for cooking and baking, with tare function.
+Price: $14.75
+Category: Kitchen Tools
+Features: LCD screen, Slim design, Units in oz/g/ml/lb, Auto-off
+
+Title: "Reusable Grocery Bags (Set of 6)"
+Description: Eco-friendly and foldable shopping bags with reinforced handles.
+Price: $16.95
+Category: Home & Kitchen
+Features: Heavy-duty, Washable, Tear-resistant, Multiple colors
+
+Title: "USB-C to HDMI Adapter"
+Description: Connect laptops or phones to monitors/TVs in 4K resolution.
+Price: $12.99
+Category: Electronics Accessories
+Features: Plug & play, 4K@60Hz, Wide compatibility, Compact design
+
+Title: "Children’s Story Book Set (5 Books)"
+Description: Illustrated books for early readers with engaging moral stories.
+Price: $22.00
+Category: Books
+Features: Hardcover, Full-color pages, Educational themes, Ages 4–8
+
+Title: "Waterproof Travel Backpack"
+Description: Multi-compartment backpack with padded laptop sleeve and USB port.
+Price: $44.99
+Category: Travel Accessories
+Features: Water-resistant fabric, Anti-theft pocket, Breathable padding, 15.6” laptop support
+
+Title: "Pet Hair Remover Roller"
+Description: Reusable roller for removing pet hair from clothes, furniture, and car.
+Price: $9.80
+Category: Pet Supplies
+Features: Eco-friendly, Easy to clean, No adhesive, Works on all fabrics
+
+Title: "Wireless Charging Pad"
+Description: Fast wireless charger compatible with iPhone and Android devices.
+Price: $17.99
+Category: Mobile Accessories
+Features: 15W charging, LED indicator, Non-slip surface, Case-friendly
+
+Title: "Electric Milk Frother"
+Description: Create creamy froth for lattes, cappuccinos, and hot chocolate.
+Price: $19.50
+Category: Kitchen Appliances
+Features: One-button control, Stainless steel whisk, Battery operated, Compact
+
+Title: "LED Desk Lamp with USB Port"
+Description: Adjustable brightness and color temperature, perfect for study or work.
+Price: $28.00
+Category: Office Supplies
+Features: Touch control, Foldable arm, USB charging port, Eye protection
+
+Title: "Men’s Analog Watch"
+Description: Classic design with leather strap and waterproof casing.
+Price: $35.00
+Category: Fashion
+Features: Quartz movement, Scratch-resistant glass, Date display, 30M water resistance
+
+Title: "Silicone Baking Mats (Set of 2)"
+Description: Non-stick mats for baking with reusable, heat-resistant silicone.
+Price: $13.50
+Category: Kitchen Tools
+Features: Easy to clean, BPA-free, Oven-safe, Fits half-sheet pans
+
+Title: "Desktop Cable Organizer"
+Description: Keeps your charging and data cables neat and tangle-free.
+Price: $6.99
+Category: Office Accessories
+Features: Silicone material, 5-slot holder, Strong adhesive, Reusable
+
+Title: "Glass Food Storage Containers (8-Pack)"
+Description: Airtight, microwave-safe containers for meal prep and leftovers.
+Price: $38.75
+Category: Kitchen Storage
+Features: BPA-free lids, Oven-safe base, Stackable, Leak-proof
+
+Title: "3-in-1 Charging Cable"
+Description: One cable for USB-C, Lightning, and Micro-USB charging.
+Price: $11.25
+Category: Mobile Accessories
+Features: Nylon braided, Fast charging, 1.2m length, Universal compatibility
+
+Title: "Fabric Steamer for Clothes"
+Description: Quickly removes wrinkles from garments using continuous steam.
+Price: $31.99
+Category: Home Appliances
+Features: 25-second heat-up, Lightweight design, Auto shut-off, 180ml tank
