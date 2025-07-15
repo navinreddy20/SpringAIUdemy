@@ -147,3 +147,15 @@ Description: Quickly removes wrinkles from garments using continuous steam.
 Price: $31.99
 Category: Home Appliances
 Features: 25-second heat-up, Lightweight design, Auto shut-off, 180ml tank
+
+Title: "Portable Bluetooth Speaker"
+Description: Compact and lightweight speaker with rich sound and strong bass. Perfect for outdoor activities a
+Price: $55.00
+Category: Electronics
+Features: Bluetooth 5.0, 10-hour battery life, IPX7 water resistance, Built-in microp
+
+Title: "Art Supplies Kit for Kids"
+Description: Comprehensive kit with crayons, markers, colored pencils, paints, and paper. Encourages creativi
+Price: $30.00
+Category: Toys & Games
+Features: Over 100 pieces, Non-toxic and washable, Includes storage case, Suitable for ages 4+
