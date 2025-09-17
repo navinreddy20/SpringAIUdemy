@@ -13,6 +13,7 @@ import org.springframework.ai.document.Document;
 import org.springframework.ai.vectorstore.VectorStore;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
@@ -141,6 +142,7 @@ public class OrderService {
         return orderResponse;
     }
 
+    @Transactional
     public List<OrderResponse> getAllOrderResponses() {
 
         List<Order> orders = orderRepo.findAll();
