@@ -1,12 +1,12 @@
 package com.telusko.springaicode;
 
 import org.springframework.ai.audio.transcription.AudioTranscriptionPrompt;
+import org.springframework.ai.audio.tts.TextToSpeechPrompt;
 import org.springframework.ai.openai.OpenAiAudioSpeechModel;
 import org.springframework.ai.openai.OpenAiAudioSpeechOptions;
 import org.springframework.ai.openai.OpenAiAudioTranscriptionModel;
 import org.springframework.ai.openai.OpenAiAudioTranscriptionOptions;
 import org.springframework.ai.openai.api.OpenAiAudioApi;
-import org.springframework.ai.openai.audio.speech.SpeechPrompt;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -44,10 +44,11 @@ public class AudioGenController {
     public byte[] tts(@RequestParam String text) {
 
         OpenAiAudioSpeechOptions options = OpenAiAudioSpeechOptions.builder()
-                .speed(1.5f)
+                .speed(1.5)
                 .voice(OpenAiAudioApi.SpeechRequest.Voice.NOVA)
                 .build();
-        SpeechPrompt prompt = new SpeechPrompt(text, options);
+        TextToSpeechPrompt prompt = new TextToSpeechPrompt(text, options);
+
         return audioSpeechModel.call(prompt).getResult().getOutput();
 
 

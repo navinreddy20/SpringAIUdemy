@@ -133,7 +133,7 @@ public class OpenAIController {
     public String getAnswerUsingRag(@RequestParam String query) {
         return chatClient
                 .prompt(query)
-                .advisors(new QuestionAnswerAdvisor(vectorStore))
+                .advisors(QuestionAnswerAdvisor.builder(vectorStore).build())
                 .call()
                 .content();
 
